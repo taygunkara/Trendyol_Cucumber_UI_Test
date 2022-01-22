@@ -5,6 +5,4 @@ In this project, the aim is to perform e-commerce UI testing using simple Cucumb
 **Feature:** Trendyol UI Test  
 **Scenario:** Add Product to Favorite
 
-* Test reports are in `target` folder.
-
 *The project will be developed over time.*
