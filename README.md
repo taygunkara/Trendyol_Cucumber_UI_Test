@@ -6,6 +6,8 @@ This project is a User Interface (UI) test automation framework for the Trendyol
 
 While this project successfully demonstrates a basic end-to-end scenario, it is also a living document that is currently undergoing a significant refactoring process to align with modern test automation best practices.
 
+[Project Article](https://taygunkara.github.io/pages/projects/bdd-cucumber-trendyol-projesi.html)
+
 ## Table of Contents
 - [Project Goal](#project-goal)
 - [Technologies Used](#technologies-used)
